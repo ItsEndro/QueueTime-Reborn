@@ -37,13 +37,13 @@ ${FULLPAGE_HEADER_SELECTOR}::after {
     color: var(--spice-subtext);
     font-size: 1rem;
     position: absolute;
-    bottom: 0;
-    right: 0;
+    bottom: ;
+    right: -20px;
     font-weight: initial;
 }
 
 ${QUEUE_HEADER_SELECTOR}::after {
-    top: 4.5px;
+    top: 7px;
 }
 `;
 
