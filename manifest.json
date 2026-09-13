@@ -2,8 +2,8 @@
   {
     "name": "Queue Time Reborn",
     "description": "A revival of Queue Time that displays the remaining playback time of your playlist in Spotify's Queue.",
-    "preview": "./preview.png",
-    "main": "./QueueTimeReborn.js",
+    "preview": "preview.png",
+    "main": "QueueTimeReborn.js",
     "readme": "README.md",
     "authors": [
       {
