@@ -1,21 +1,24 @@
 [
   {
     "name": "Queue Time Reborn",
-    "description": "Displays the remaining playback time of the current playlist in Spotify's Queue.",
-    "preview": "preview.png",
-    "main": "QueueTimeReborn.js",
+    "description": "A revival of Queue Time that displays the remaining playback time of your playlist in Spotify's Queue.",
+    "preview": "./preview.png",
+    "main": "./QueueTimeReborn.js",
     "readme": "README.md",
     "authors": [
       {
-        "name": "YOUR_GITHUB_USERNAME",
-        "url": "https://github.com/ItsEndro"
+        "name": "ItsEndro",
+        "url": "https://github.com/ItsEndro/QueueTime-Reborn"
       }
     ],
     "tags": [
       "queue",
+      "timer",
       "time",
       "playlist",
-      "utility"
+      "utility",
+      "duration"
     ]
   }
 ]
+```
